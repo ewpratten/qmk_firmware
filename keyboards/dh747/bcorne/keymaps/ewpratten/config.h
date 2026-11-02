@@ -1,0 +1,6 @@
+#pragma once
+
+// Default to solid orange
+#define RGB_MATRIX_DEFAULT_MODE RGB_MATRIX_SOLID_COLOR
+#define RGB_MATRIX_DEFAULT_HUE 21
+#define RGB_MATRIX_DEFAULT_SAT 255
